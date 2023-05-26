@@ -57,7 +57,5 @@ Read or watch:
 
 ### [11. More than 2 elements become list](./fix-a11y/10-index.html)
 
----
-
-## Author
-* **Amadi Mariana Mathew
+Author
+Amadi Mariana Amadi
